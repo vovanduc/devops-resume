@@ -3,7 +3,7 @@
   "basics": {
     "name": "Vo Van Duc",
     "label": "DevOps",
-    "picture": "",
+    "picture": "https://raw.githubusercontent.com/vovanduc/resume/master/me.jpeg",
     "phone": "0937.366.388",
     "email": "vovanduc1989@gmail.com",
     "website": "https://vovanduc.github.io/resume",
@@ -22,160 +22,116 @@
   },
   "work": [
     {
-      "company": "Bonitasoft",
-      "location": "Grenoble",
-      "position": "Principal DevOps Engineer",
-      "website": "https://bonitasoft.com/",
-      "startDate": "2014-01-01",
-      "summary": "Bonitasoft is a leading open source provider of Business Process Management and low-code digital transformation software.",
+      "company": "Vinacis Group",
+      "location": "Ho Chi Minh City",
+      "position": "Software Developer",
+      "website": "https://vinacis.com",
+      "startDate": "2017-08",
+      "summary": "Cloud Computing: Company providing server infrastructure and cloud computing solutions",
       "highlights": [
-        "Built from scratch a **cloud native** PaaS to run process-based applications on a fully managed and cost-optimized infrastructure",
-        "Set up **observability** and operate a Kubernetes **multi-cluster** and **multi-tenant** infrastructure with industry standard uptime SLA",
-        "Developed a **continuous delivery** solution for process-based application development and deployment",
-        "Set up **CI/CD as code** for development teams, making release pipelines faster and more sustainable",
-        "Managed IT **infrastructure as code** to ensure reliability of corporate-wise services, both on-premises and on cloud IaaS",
-        "Developed a command-line toolkit to manage Salesforce Metadata in sandbox and production environments through Git",
-        "*AWS, Docker, Kubernetes, Helm, Mozilla SOPS, Datadog, Prometheus, Python, Ansible, Terraform, Jenkins, Artifactory, Nexus, Shell, Git, Agile*"
+        "Develop and improve integrations with CRMmini internal",
+        "Design and develop page customer portal system to help customers manage their account",
+        "Create, maintains and enhances existing custom API for provider cloud (Onapp, Virtuozzo, Plesk ...)",
+        "To support development manager in solution delivery and implementation"
       ]
     },
     {
-      "company": "Bonitasoft",
-      "location": "Grenoble",
-      "position": "Senior QA Engineer",
-      "website": "https://bonitasoft.com/",
-      "startDate": "2012-08-01",
-      "endDate": "2014-01-01",
-      "summary": "Automated testing of a Business Process Management platform.",
+      "company": "Go Digital World",
+      "location": "Ho Chi Minh City",
+      "position": "Web Application Developer",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Project Order Product from Amazon.com: Customers in my country can buy products from Amazon.com Take a leading role in all stages of the software development lifecycle including requirements development, UI and database schema design, programming, system and user acceptance testing",
       "highlights": [
-        "Built a frontend **automated test framework** for multi-browser end-to-end testing",
-        "Wrote deployment tests against various database vendors and J2EE application servers to cover compatibility testing",
-        "Integrated automated tests to a Jenkins CI environment",
-        "*Java, Maven, Selenium, TestNG, Jenkins, JIRA, Git, Agile*"
+        "########## How to Scrape Amazon.com",
+        "Build an Amazon scraper for extracting product details and pricing when customer request (curl)",
+        "Scraping essentially means that script will download the web page from Amazon, parse the HTML and extract the price",
+        "Avoiding Bot Detection, Use a Proxy Service",
+        "",
+        "########## Order System Admin",
+        "Module manage customer, order, invoice, product",
+        "Role manage for each module",
+        "Data visualizations, ad-hoc reports, database extracts, as well as Data visualizations, ad-hoc reports, database extracts, as well as",
+        "Multi website for each brand name",
+        "",
+        "########## Customer Portal",
+        "Customer can access wesite, research product, add to cart and payment",
+        "Manage invoice, check status order"
       ]
     },
     {
-      "company": "Moody's Analytics",
-      "location": "Grenoble",
-      "position": "QA Engineer",
-      "website": "https://www.moodysanalytics.com/",
-      "startDate": "2010-05-01",
-      "endDate": "2012-08-01",
-      "summary": "Moody's Analytics is an award-winning provider of risk and performance management software for financial institutions.",
+      "company": "Nhan Hoa Software Company",
+      "location": "Ho Chi Minh City",
+      "position": "Web Application Developer",
+      "website": "https://nhanhoa.com/",
+      "startDate": "2011",
+      "endDate": "2014",
+      "summary": "Project Website Builder: The platform that gives customer the freedom to pick a template and customize theme. Start customer own blog, add an online store. Customers must purchase premium packages in order to connect their sites to their customer domains, theme pro, add e-commerce capabilities, or buy extra data storage and bandwidth",
       "highlights": [
-        "Built a test framework for automated GUI tests of Adobe Flex applications",
-        "**Automated deployment** tests against J2EE application servers",
-        "Integrated automated tests to a Jenkins CI environment",
-        "Wrote automated tests for Oracle PL/SQL stored procedures",
-        "*Python, XML, RIATest, Ant, Jenkins, Robot Framework, SQL, PL/SQL, Perforce, Agile*"
+        "Develop and deploy new features to existing products",
+        "Write documentation to describe application development logic and coding",
+        "Collaborate with sales teams to understand customer requirements and provide sales support",
+        "Maintaining websites for clients",
+        "Multi-DB (one system database and separated tenant databases, table prefixed in the system database)",
+        "Multi-Channel (theme, subdomain for each tenant)"
       ]
-    },
-    {
-      "company": "Yahoo! Inc.",
-      "location": "Grenoble",
-      "position": "QA Engineer",
-      "website": "https://answers.yahoo.com/",
-      "startDate": "2008-09-01",
-      "endDate": "2010-04-01",
-      "summary": "QA testing of Yahoo! Answers, the Q&A website from Yahoo!",
-      "highlights": [
-        "Developed **automated tests** to cover non-regression testing",
-        "Run performance tests to secure the **website resilience** to millions daily visits",
-        "Involved in QA engineer recruitment in London",
-        "*Java, Maven, Selenium, JUnit, TestNG, XML, JSON, JMeter, Bugzilla, SVN, Agile*"
-      ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Developers: work like a champion today",
-      "publisher": "Medium",
-      "releaseDate": "2019-05-31",
-      "website": "https://bonitasoft.medium.com/developers-work-like-a-champion-today-6279b3ed509d",
-      "summary": "How can we apply a champion’s mentality and work ethic to our day to day job?"
     }
   ],
   "education": [
     {
-      "institution": "Global Knowledge",
-      "area": "Amazon Web Services",
-      "studyType": "Training",
-      "startDate": "2020-03-01",
-      "courses": ["Architecting on AWS", "Systems Operations on AWS"]
-    },
-    {
-      "institution": "Zenika",
-      "area": "DevOps",
-      "studyType": "Training",
-      "startDate": "2019-03-01",
-      "courses": ["Kubernetes Application Developer"]
-    },
-    {
-      "institution": "ENSEIRB (French Engineering School) - Bordeaux",
-      "area": "Telecommunications",
-      "studyType": "Engineer's Degree",
-      "startDate": "2003-09-01",
-      "endDate": "2006-09-01",
-      "courses": ["Software Engineering", "Network and Telecommunication"]
+      "institution": "NIIT Edufirst Centre, Ho Chi Minh, Vietnam",
+      "area": "DNIIT (Professional Diploma in Information Technology",
+      "studyType": "",
+      "startDate": "2008",
+      "endDate" : "2010",
+      "courses": ["Software Engineering"]
     }
   ],
   "skills": [
     {
       "name": "Cloud Native",
-      "keywords": ["Amazon Web Services", "Docker", "Kubernetes", "Helm"]
+      "keywords": ["AWS", "GCP", "Kubernetes"]
     },
     {
       "name": "Monitoring",
-      "keywords": ["Datadog", "Prometheus", "Zabbix"]
+      "keywords": ["Prometheus"]
     },
     {
       "name": "Infrastructure as Code",
       "keywords": ["Ansible", "Terraform"]
     },
     {
-      "name": "Continuous Integration/Delivery",
-      "keywords": ["Jenkins", "GitHub", "Artifactory", "Nexus"]
+      "name": "CI/CD",
+      "keywords": ["Jenkins"]
     },
     {
       "name": "Scripting and Coding",
-      "keywords": ["Python", "Bash", "Shell", "Git", "YAML", "Java", "Maven"]
+      "keywords": ["Python", "JavaScript", "PHP", "Git", "YAML"]
     },
     {
       "name": "Tools",
-      "keywords": ["Vim", "Sublime Text", "Terminator", "Mozilla SOPS"]
+      "keywords": ["Docker","Grafana","Vagrant","Visual Studio Code", "iTerm"]
+    },
+    {
+      "name": "Web frameworks",
+      "keywords": ["Laravel","Codeigniter"]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Vietnamese"
     },
     {
-      "language": "French",
-      "fluency": "Native speaker"
+      "language": "English"
     }
   ],
   "interests": [
     {
-      "name": "Taekwon-Do",
-      "summary": "Practicing and teaching this martial art for many years, I also competed on the world stage with some notable success:  \n&#8226;&nbsp; 3-times European gold medalist (2015, 2017, 2019)  \n&#8226;&nbsp; 2-times World bronze medalist (2015, 2019)  \n&#8226;&nbsp; French team leader since 2011",
-      "keywords": [
-        "Work ethic",
-        "Perseverance",
-        "Mentoring",
-        "Focus",
-        "Leadership"
-      ]
+      "name": "Football"
     },
     {
-      "name": "Traveling",
-      "summary": "My favorite way to experience new cultures. Making and planning annual trips to different countries is a challenge I like to embrace. Some places I have traveled to: the USA, Vietnam, China, Bulgaria, Korea.",
-      "keywords": [
-        "Curiosity",
-        "Organization",
-        "Diversity",
-        "Adaptability",
-        "Awareness"
-      ]
+      "name": "Traveling"
     }
   ]
 }
