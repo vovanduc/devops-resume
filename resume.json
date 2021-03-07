@@ -4,6 +4,7 @@
     "name": "Vo Van Duc",
     "label": "DevOps",
     "picture": "",
+    "phone": "0937.366.388",
     "email": "vovanduc1989@gmail.com",
     "website": "https://vovanduc.github.io/resume",
     "summary": "I am a DevOps Engineer with an eye for automation since day one. Versatile team player with a deep commitment to a reliable and successful business, I am eager to learn every day at a high pace.\n\nBased in Grenoble in the French Alps, I am keen on working remotely too.\n\n_This resume is built and deployed with a GitHub Actions CI/CD workflow. Check **[the workflow](https://github.com/trucngn/resume/actions?query=workflow%3A%22Build+resume%22)** on GitHub if interested._",
