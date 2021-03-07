@@ -1,164 +1,180 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "google_analytics_id": "",
   "basics": {
-    "name": "Duc Vo",
-    "label": "Programmer",
-    "image": "",
+    "name": "Vo Van Duc",
+    "label": "DevOps",
+    "picture": "",
     "email": "vovanduc1989@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "website": "https://vovanduc.github.io/resume",
+    "summary": "I am a DevOps Engineer with an eye for automation since day one. Versatile team player with a deep commitment to a reliable and successful business, I am eager to learn every day at a high pace.\n\nBased in Grenoble in the French Alps, I am keen on working remotely too.\n\n_This resume is built and deployed with a GitHub Actions CI/CD workflow. Check **[the workflow](https://github.com/trucngn/resume/actions?query=workflow%3A%22Build+resume%22)** on GitHub if interested._",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Ho Chi Minh",
+      "countryCode": "City"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "Linkedin",
+        "username": "vovanduc",
+        "url": "https://www.linkedin.com/in/vovanduc/"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Bonitasoft",
+      "location": "Grenoble",
+      "position": "Principal DevOps Engineer",
+      "website": "https://bonitasoft.com/",
+      "startDate": "2014-01-01",
+      "summary": "Bonitasoft is a leading open source provider of Business Process Management and low-code digital transformation software.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Built from scratch a **cloud native** PaaS to run process-based applications on a fully managed and cost-optimized infrastructure",
+        "Set up **observability** and operate a Kubernetes **multi-cluster** and **multi-tenant** infrastructure with industry standard uptime SLA",
+        "Developed a **continuous delivery** solution for process-based application development and deployment",
+        "Set up **CI/CD as code** for development teams, making release pipelines faster and more sustainable",
+        "Managed IT **infrastructure as code** to ensure reliability of corporate-wise services, both on-premises and on cloud IaaS",
+        "Developed a command-line toolkit to manage Salesforce Metadata in sandbox and production environments through Git",
+        "*AWS, Docker, Kubernetes, Helm, Mozilla SOPS, Datadog, Prometheus, Python, Ansible, Terraform, Jenkins, Artifactory, Nexus, Shell, Git, Agile*"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
+      "company": "Bonitasoft",
+      "location": "Grenoble",
+      "position": "Senior QA Engineer",
+      "website": "https://bonitasoft.com/",
+      "startDate": "2012-08-01",
       "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+      "summary": "Automated testing of a Business Process Management platform.",
+      "highlights": [
+        "Built a frontend **automated test framework** for multi-browser end-to-end testing",
+        "Wrote deployment tests against various database vendors and J2EE application servers to cover compatibility testing",
+        "Integrated automated tests to a Jenkins CI environment",
+        "*Java, Maven, Selenium, TestNG, Jenkins, JIRA, Git, Agile*"
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "company": "Moody's Analytics",
+      "location": "Grenoble",
+      "position": "QA Engineer",
+      "website": "https://www.moodysanalytics.com/",
+      "startDate": "2010-05-01",
+      "endDate": "2012-08-01",
+      "summary": "Moody's Analytics is an award-winning provider of risk and performance management software for financial institutions.",
+      "highlights": [
+        "Built a test framework for automated GUI tests of Adobe Flex applications",
+        "**Automated deployment** tests against J2EE application servers",
+        "Integrated automated tests to a Jenkins CI environment",
+        "Wrote automated tests for Oracle PL/SQL stored procedures",
+        "*Python, XML, RIATest, Ant, Jenkins, Robot Framework, SQL, PL/SQL, Perforce, Agile*"
+      ]
+    },
+    {
+      "company": "Yahoo! Inc.",
+      "location": "Grenoble",
+      "position": "QA Engineer",
+      "website": "https://answers.yahoo.com/",
+      "startDate": "2008-09-01",
+      "endDate": "2010-04-01",
+      "summary": "QA testing of Yahoo! Answers, the Q&A website from Yahoo!",
+      "highlights": [
+        "Developed **automated tests** to cover non-regression testing",
+        "Run performance tests to secure the **website resilience** to millions daily visits",
+        "Involved in QA engineer recruitment in London",
+        "*Java, Maven, Selenium, JUnit, TestNG, XML, JSON, JMeter, Bugzilla, SVN, Agile*"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Developers: work like a champion today",
+      "publisher": "Medium",
+      "releaseDate": "2019-05-31",
+      "website": "https://bonitasoft.medium.com/developers-work-like-a-champion-today-6279b3ed509d",
+      "summary": "How can we apply a champion’s mentality and work ethic to our day to day job?"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Global Knowledge",
+      "area": "Amazon Web Services",
+      "studyType": "Training",
+      "startDate": "2020-03-01",
+      "courses": ["Architecting on AWS", "Systems Operations on AWS"]
+    },
+    {
+      "institution": "Zenika",
+      "area": "DevOps",
+      "studyType": "Training",
+      "startDate": "2019-03-01",
+      "courses": ["Kubernetes Application Developer"]
+    },
+    {
+      "institution": "ENSEIRB (French Engineering School) - Bordeaux",
+      "area": "Telecommunications",
+      "studyType": "Engineer's Degree",
+      "startDate": "2003-09-01",
+      "endDate": "2006-09-01",
+      "courses": ["Software Engineering", "Network and Telecommunication"]
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "name": "Cloud Native",
+      "keywords": ["Amazon Web Services", "Docker", "Kubernetes", "Helm"]
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
+      "name": "Monitoring",
+      "keywords": ["Datadog", "Prometheus", "Zabbix"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "keywords": ["Ansible", "Terraform"]
+    },
+    {
+      "name": "Continuous Integration/Delivery",
+      "keywords": ["Jenkins", "GitHub", "Artifactory", "Nexus"]
+    },
+    {
+      "name": "Scripting and Coding",
+      "keywords": ["Python", "Bash", "Shell", "Git", "YAML", "Java", "Maven"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Vim", "Sublime Text", "Terminator", "Mozilla SOPS"]
     }
   ],
   "languages": [
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
       "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Taekwon-Do",
+      "summary": "Practicing and teaching this martial art for many years, I also competed on the world stage with some notable success:  \n&#8226;&nbsp; 3-times European gold medalist (2015, 2017, 2019)  \n&#8226;&nbsp; 2-times World bronze medalist (2015, 2019)  \n&#8226;&nbsp; French team leader since 2011",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Work ethic",
+        "Perseverance",
+        "Mentoring",
+        "Focus",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Traveling",
+      "summary": "My favorite way to experience new cultures. Making and planning annual trips to different countries is a challenge I like to embrace. Some places I have traveled to: the USA, Vietnam, China, Bulgaria, Korea.",
+      "keywords": [
+        "Curiosity",
+        "Organization",
+        "Diversity",
+        "Adaptability",
+        "Awareness"
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  ]
 }
