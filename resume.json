@@ -2,12 +2,12 @@
   "google_analytics_id": "",
   "basics": {
     "name": "Vo Van Duc",
-    "label": "DevOps",
+    "label": "DevOps Engineer",
     "picture": "https://raw.githubusercontent.com/vovanduc/resume/master/me.jpeg",
     "phone": "0937.366.388",
     "email": "vovanduc1989@gmail.com",
     "website": "https://vovanduc.github.io/resume",
-    "summary": "I am a DevOps Engineer with an eye for automation since day one. Versatile team player with a deep commitment to a reliable and successful business, I am eager to learn every day at a high pace.\n\nBased in Grenoble in the French Alps, I am keen on working remotely too.\n\n_This resume is built and deployed with a GitHub Actions CI/CD workflow. Check **[the workflow](https://github.com/trucngn/resume/actions?query=workflow%3A%22Build+resume%22)** on GitHub if interested._",
+    "summary": "Developed and delivered high-end website solutions to a diverse client base by utilizing wide-ranging technologies and frameworks.",
     "location": {
       "city": "Ho Chi Minh",
       "countryCode": "City"
@@ -21,6 +21,19 @@
     ]
   },
   "work": [
+    {
+      "company": "Vinacis Group",
+      "location": "Ho Chi Minh City",
+      "position": "Junior DevOps",
+      "website": "https://vinacis.com",
+      "startDate": "2020",
+      "summary": "Developing CI/CD roadmap and implementing to the project",
+      "highlights": [
+        "Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)",
+        "Testing my Ansible roles with Vagrant",
+        "Build (install dependency) and test application automatically when developers push code changes every day"
+      ]
+    },
     {
       "company": "Vinacis Group",
       "location": "Ho Chi Minh City",
@@ -111,7 +124,7 @@
     },
     {
       "name": "Tools",
-      "keywords": ["Docker","Grafana","Vagrant","Visual Studio Code", "iTerm"]
+      "keywords": ["Docker","Grafana","Virtualbox","Vagrant","Visual Studio Code", "iTerm"]
     },
     {
       "name": "Web frameworks",
