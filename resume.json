@@ -30,7 +30,7 @@
       "summary": "Developing CI/CD roadmap and implementing to the project",
       "highlights": [
         "Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)",
-        "Testing my Ansible roles with Vagrant",
+        "Testing ansible roles with vagrant",
         "Build (install dependency) and test application automatically when developers push code changes every day"
       ]
     },
