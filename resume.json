@@ -60,7 +60,7 @@
         "########## How to Scrape Amazon.com",
         "Build an Amazon scraper for extracting product details and pricing when customer request (curl)",
         "Scraping essentially means that script will download the web page from Amazon, parse the HTML and extract the price",
-        "Avoiding Bot Detection, Use a Proxy Service",
+        "Avoiding bot detection, use a proxy Service",
         "",
         "########## Order System Admin",
         "Module manage customer, order, invoice, product",
@@ -70,7 +70,7 @@
         "",
         "########## Customer Portal",
         "Customer can access wesite, research product, add to cart and payment",
-        "Manage invoice, check status order."
+        "Manage invoice, check status order"
       ]
     },
     {
