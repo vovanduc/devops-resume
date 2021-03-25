@@ -7,7 +7,7 @@
     "phone": "0937.366.388",
     "email": "vovanduc1989@gmail.com",
     "website": "https://vovanduc.github.io/resume",
-    "summary": "\n Developed and delivered high-end website solutions to a diverse client base by utilizing wide-ranging technologies and frameworks. \n\n This is where my resume is automatically built from Jenkins! Jenkins will run the build when i push my code to the GitHub repository.",
+    "summary": "\n Developed and delivered high-end website solutions to a diverse client base by utilizing wide-ranging technologies and frameworks. \n\n + Use 12 Factor App Principles. \n\n + Have basic knowledge of Terraform (deploy static website on AWS).\n\n + Knowledge of AWS service (EC2, S3, CloudFront). \n\n ### This is where my resume is automatically built from Jenkins! Jenkins will run the build when i push my code to the GitHub repository. ###",
     "location": {
       "city": "Ho Chi Minh",
       "countryCode": "City"
